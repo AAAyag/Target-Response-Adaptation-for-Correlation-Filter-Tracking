@@ -1,4 +1,4 @@
-"Target Response Adaptation for Correlation Filter Tracking" ECCV2016
+"Target Response Adaptation for Correlation Filter Tracking". ECCV2016.
 
 Authors: Adel Bibi, Matthias Mueller and Bernard Ghanem.
 
