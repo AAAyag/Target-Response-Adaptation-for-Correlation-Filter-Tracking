@@ -23,7 +23,7 @@ Email:
 
 This is a MATLAB implementation on the adaptive target for correlation filters.
 The framework is generic and can be directly implemented in any correlation tracker that
-solves the following objective. ||Ax - b||_2^2 + \lambda ||x||_2^2.
+solves the following objective: ||Ax - b||_2^2 + \lambda ||x||_2^2.
 
 It is free for research use. If you find it useful, please acknowledge the paper above with a reference.
 
