@@ -8,12 +8,16 @@ Adel Bibi's website: www.adelbibi.com
 
 Email:
 
-   adel.bibi [AT] kaust.edu.sa                 bibiadel93 [AT] gmail.com
+   adel.bibi [AT] kaust.edu.sa                
+   bibiadel93 [AT] gmail.com
+	matthias.mueller.2 [AT] kaust.edu.sa
+   Bernard.Ghanem [AT] kaust.edu.sa 
+
+
 Bernard Ghanem's website: http://www.bernardghanem.com/
 
 Email:
 
-   Bernard.Ghanem [AT] kaust.edu.sa 
 
 This is a MATLAB implementation on the adaptive target for correlation filters.
 The framework is generic and can be directly implemented in any correlation tracker that
